@@ -253,25 +253,3 @@
       });
   }
 
-  /* ── GITHUB SAVE ── */
- async function saveResult(name, school, district, marks, total, percentage) {
-    const token = "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";
-    const url = "https://api.github.com/repos/Manikandan2908/quiz-results/contents/std7term1mathsbodmas1.json";
-    const newEntry = {
-      name, school, district,
-      marks: marks + "/" + total,
-      percentage: percentage.toFixed(1) + "%",
-      date: new Date().toLocaleString()
-    };
-    try {
-      const getFile = await fetch(url, { headers: { Authorization: `token ${token}` } });
-      const fileData = await getFile.json();
-      const content = JSON.parse(atob(fileData.content));
-      content.push(newEntry);
-      await fetch(url, {
-        method: "PUT",
-        headers: { Authorization: `token ${token}`, "Content-Type": "application/json" },
-        body: JSON.stringify({ message: "New quiz result added", content: btoa(JSON.stringify(content, null, 2)), sha: fileData.sha })
-      });
-    } catch (err) { console.log("GitHub save error", err); }
-  }
