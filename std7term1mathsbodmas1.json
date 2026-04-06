@@ -2486,5 +2486,13 @@
     "marks": "23/25",
     "percentage": "92.0%",
     "date": "06/04/2026, 14:56:50"
+  },
+  {
+    "name": "Naresh",
+    "school": "P.U.M school",
+    "district": "Vellore",
+    "marks": "22/25",
+    "percentage": "88.0%",
+    "date": "06/04/2026, 15:00:12"
   }
 ]
