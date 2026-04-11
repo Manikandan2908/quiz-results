@@ -220,7 +220,7 @@
 
     html += '<div class="retry-row">'
       + '<button class="btn btn-outline" onclick="location.reload()"><i class="fa fa-refresh"></i> Retry Quiz</button>'
-      + '<a href="https://www.icteducationtools.com/2022/12/nmms-std-7-8-online-tests-with.html" class="btn btn-primary" style="text-decoration:none;" target="_blank">More Tests</a>'
+      + '<a href="https://www.icteducationtools.com/2026/04/nmms-test-series-collection-2026.html" class="btn btn-primary" style="text-decoration:none;" target="_blank">More Tests</a>'
       + '</div>';
 
     rev.innerHTML = html;
