@@ -1160,7 +1160,7 @@
     "date": "25/04/2026, 20:57:24"
   },
   {
-    "name": "Sivasańa",
+    "name": "SivasaĹa",
     "school": "Gmhss thuneri",
     "district": "Nilgiris",
     "marks": "14/50",
@@ -1248,11 +1248,19 @@
     "date": "4/25/2026, 9:11:02 PM"
   },
   {
-    "name": "Sivasa�a",
+    "name": "Sivasańa",
     "school": "Gmhss thuneri",
     "district": "Nilgiris",
     "marks": "17/50",
     "percentage": "34.0%",
     "date": "4/25/2026, 9:14:13 PM"
+  },
+  {
+    "name": "GUNAL K. G",
+    "school": "PUMS KADAIYAMPATTI",
+    "district": "Dindigul",
+    "marks": "35/50",
+    "percentage": "70.0%",
+    "date": "25/04/2026, 21:16:42"
   }
 ]
