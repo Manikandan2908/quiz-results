@@ -1432,7 +1432,7 @@
     "date": "24/04/2026, 22:37:43"
   },
   {
-    "name": "Sivasańa",
+    "name": "SivasaĹa",
     "school": "Gmhss thuneri",
     "district": "Nilgiris",
     "marks": "15/50",
@@ -1841,10 +1841,18 @@
   },
   {
     "name": "Parkavi",
-    "school": "Government higher secondary s�hool in thummuchinnampatti",
+    "school": "Government higher secondary sçhool in thummuchinnampatti",
     "district": "Virudhunagar",
     "marks": "24/50",
     "percentage": "48.0%",
     "date": "25/04/2026, 11:19:54"
+  },
+  {
+    "name": "Yuvadharshini . v",
+    "school": "Pums  basavankottai",
+    "district": "Vellore",
+    "marks": "32/50",
+    "percentage": "64.0%",
+    "date": "4/25/2026, 11:26:13 AM"
   }
 ]
