@@ -1160,11 +1160,19 @@
     "date": "25/04/2026, 20:57:24"
   },
   {
-    "name": "Sivasaña",
+    "name": "SivasaÅ„a",
     "school": "Gmhss thuneri",
     "district": "Nilgiris",
     "marks": "14/50",
     "percentage": "28.0%",
     "date": "4/25/2026, 9:00:24 PM"
+  },
+  {
+    "name": "A. Abitha sri",
+    "school": "Government high school",
+    "district": "Madurai",
+    "marks": "42/50",
+    "percentage": "84.0%",
+    "date": "4/25/2026, 9:02:49 PM"
   }
 ]
