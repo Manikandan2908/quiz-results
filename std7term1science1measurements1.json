@@ -5272,7 +5272,7 @@
     "date": "4/19/2026, 8:07:47 PM"
   },
   {
-    "name": "Sivasańa",
+    "name": "SivasaĹa",
     "school": "Gmhss thuneri",
     "district": "Nilgiris",
     "marks": "12/40",
@@ -7689,10 +7689,18 @@
   },
   {
     "name": "Chastin",
-    "school": "St.jos�ph college hr sec school",
+    "school": "St.joséph college hr sec school",
     "district": "Tiruchirappalli",
     "marks": "19/40",
     "percentage": "47.5%",
     "date": "4/26/2026, 3:24:56 PM"
+  },
+  {
+    "name": "R.G.kirubanandhini",
+    "school": "Municipal middle school",
+    "district": "Erode",
+    "marks": "35/40",
+    "percentage": "87.5%",
+    "date": "26/04/2026, 15:50:51"
   }
 ]
