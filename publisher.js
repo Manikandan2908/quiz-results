@@ -1,4 +1,4 @@
-  /* ── STATE ── */
+/* ── STATE ── */
   var studentName = '', studentSchool = '', studentDistrict = '';
   var currentSlide = 0;
   var userAnswers  = {};
@@ -170,7 +170,7 @@
   /* ── RENDER REVIEW ── */
   function renderReview(correctCount, total, pct) {
     var rev    = document.getElementById('reviewSection');
-    var labels = ['A','B','C','D'];
+    var labels = ['1','2','3','4'];
 
     var html = '<div class="score-banner">'
       + '<div class="score-num">' + correctCount + ' / ' + total + '</div>'
@@ -252,4 +252,3 @@
         link.click();
       });
   }
-
