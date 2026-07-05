@@ -14,7 +14,7 @@
       var sel         = slide.querySelector('select');
       var optionsList = slide.querySelector('.options-list');
       optionsList.innerHTML = '';
-      var labels = ['A','B','C','D'];
+      var labels = ['1','2','3','4'];
 
       var options = Array.from(sel.options).map(function(opt) {
         return { value: opt.value, text: opt.textContent.trim(), correct: opt.dataset.correct || 'false' };
